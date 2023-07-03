@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hola!
-=======
 Bonjor!
->>>>>>> main
